@@ -1,2 +1,2 @@
 # PokerGame
-Poker
+Init
